@@ -1,0 +1,6 @@
+<installer>
+	<id>openscholar</id>
+	<build>1</build>
+	<url>http://my_domain/my_installers/openscholar.tar.gz</url>
+	<md5>124989ee21ee7fa9db519aa75a3ffc4c</md5>
+</installer>
